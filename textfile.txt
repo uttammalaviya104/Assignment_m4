@@ -1,0 +1,20 @@
+Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989.
+
+
+what is python useful for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances
+
+How python useful in real life?
+Web Development.
+Data Science.
+Artificial Intelligence and Machine Learning.
+Enterprise Applications.
+Education Sector.
+Web Scraping Applications.
+Game Development.
+Software Development.
+
+Artificial Intelligence?
+Artificial intelligence (AI) refers to the simulation or approximation of human intelligence in machines. The goals of artificial intelligence include computer-enhanced learning, reasoning, and perception. AI is being used today across different industries from finance to healthcare
+
+
